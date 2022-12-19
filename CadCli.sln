@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadCli.API", "src\CadCli.API.csproj", "{5CF324A9-530F-4045-BB0A-255BD8A77993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadCli.Api.Tests", "tests\CadCli.Api.Tests.csproj", "{9B557D08-6AF9-4092-A90E-D85C6A89E525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF324A9-530F-4045-BB0A-255BD8A77993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF324A9-530F-4045-BB0A-255BD8A77993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF324A9-530F-4045-BB0A-255BD8A77993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF324A9-530F-4045-BB0A-255BD8A77993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A33D8AA-B8DB-4278-BE7A-5D530ED106CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A33D8AA-B8DB-4278-BE7A-5D530ED106CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A33D8AA-B8DB-4278-BE7A-5D530ED106CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A33D8AA-B8DB-4278-BE7A-5D530ED106CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B557D08-6AF9-4092-A90E-D85C6A89E525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B557D08-6AF9-4092-A90E-D85C6A89E525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B557D08-6AF9-4092-A90E-D85C6A89E525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B557D08-6AF9-4092-A90E-D85C6A89E525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
